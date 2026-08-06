@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  box-sizing: 0;
+}
+header{
+  display:  flex;
+  justify-content: center;
+  background: rgb(247, 73, 73);
+  height: 100px;
+  color: white;
+  height: 55px;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 500;
+  font-family: Inter;
+}
+.icon{
+  margin: 27px;
+}
+.journal-entry{
+  margin: 10px;
+  display: flex;
+  flex-shrink: 0;
+  justify-content: space-between;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.main-image-container{
+  width: 125px;
+  height: 168px;
+  overflow: hidden;
+  margin: 8px;
+  border-radius: 8px;
+  min-width: 125px;
+}
+.main-image{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.journal-info{
+  justify-content: space-between;
+}
+a{
+  margin: 10px;
+  color: rgb(247, 73, 73);
+}
+h2{
+  margin: 10px;
+}
+span{
+  margin: 10px;
+}
