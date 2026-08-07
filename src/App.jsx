@@ -6,8 +6,6 @@ export default function App(){
     <>
       <Header />
       <Entry />
-      <Entry />
-      <Entry />
     </>
   )
 }
