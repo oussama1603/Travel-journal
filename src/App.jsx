@@ -9,8 +9,7 @@ export default function App(){
       <Entry />
       <Entry />
       <Entry />
-      <Entry />
-       
+      <Entry /> 
     </>
   )
 }
