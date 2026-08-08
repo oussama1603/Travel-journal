@@ -18,15 +18,12 @@ header{
   margin: 27px;
 }
 .journal-entry{
-  margin: 10px;
+  margin: 20px;
   display: flex;
   flex-shrink: 0;
   justify-content: space-between;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   border: none;
-  border-radius: 8px;
-  box-shadow: 0px 0px 12px;
-
 }
 .main-image-container{
   width: 125px;
